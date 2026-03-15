@@ -1,0 +1,5 @@
+{
+  "name": "DoggyService Marketplace",
+  "description": "A premium marketplace for dog services (cynologists, sitters, vets) featuring Telegram authentication, glassmorphism UI, and real-time notifications.",
+  "requestFramePermissions": []
+}

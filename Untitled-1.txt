@@ -1,0 +1,3 @@
+# 
+
+{"ok":true,"result":{"url":"https://doggyservice-app.vercel.app/api/webhook","has_custom_certificate":false,"pending_update_count":0,"last_error_date":1772373765,"last_error_message":"Wrong response from the webhook: 404 Not Found","max_connections":40,"ip_address":"216.198.79.3"}}

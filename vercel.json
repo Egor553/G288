@@ -1,0 +1,20 @@
+{
+    "version": 2,
+    "crons": [
+        {
+            "path": "/api/cron/reminders",
+            "schedule": "0 0 * * *"
+        }
+    ],
+    "routes": [
+        { "handle": "filesystem" },
+        {
+            "src": "/api/(.*)",
+            "dest": "/api/index.ts"
+        },
+        {
+            "src": "/(.*)",
+            "dest": "/index.html"
+        }
+    ]
+}
